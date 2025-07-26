@@ -1,0 +1,7 @@
+*.bin -text
+*.h5 -text
+*.onnx -text
+*.safetensors -text
+*.json -text
+*.txt -text
+*.md -text
