@@ -1,4 +1,6 @@
-# PDF Outline Extractor
+# Round 1A: Understand Your Document
+
+## Challenge Theme: Connecting the Dots Through Docs
 
 ## Approach
 
